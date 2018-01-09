@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="introductionHeader">
-        <source>Bonjour i18n - Пеши !</source>
-        <target>Bonjour i18n - Пеши !</target>
+        <source>Bonjour test fas</source>
+        <target>Bonjour test fas</target>
       </trans-unit>
       <trans-unit id="ba0cc104d3d69bf669f97b8d96a4c5d8d9559aa3">
         <source>Je n'affiche aucun élément</source>
